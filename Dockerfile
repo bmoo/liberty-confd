@@ -3,7 +3,7 @@
 # Based on wasdev/websphere-liberty & ubuntu
 ############################################################
 
-FROM websphere-liberty
+FROM websphere-liberty:8.5.5
 MAINTAINER Michael Boudreau <mkboudreau@yahoo.com>
 
 ### INSTALL CONFD
